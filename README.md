@@ -35,9 +35,8 @@ What you waiting for now ?!.... Start Scratching !!!
 - Make the pool balls generate in the given pattern to solve this task
 
 ### Project Setup:
-- Open this [link]() IN A NEW TAB and click on `Remix`.
 
-- Open this [link](https://scratch.mit.edu/projects/924475543/) IN A NEW TAB and click on `Remix`
+- Open this [link](https://scratch.mit.edu/projects/1064843591) IN A NEW TAB and click on `Remix`
 
 ### Hints and Clues:
 - Use the Pen extension (lower left corner of your screen) to draw the triangles.
@@ -99,13 +98,13 @@ What you waiting for now ?!.... Start Scratching !!!
 
 ## Task 4 : Brick Breaker ( Estimated Time : 45 mins )
 
-`JBounce, Smash and Win!`
+`Bounce, Smash and Win!`
 
 ### Objective  
 - Break all the bricks by bouncing a ball off a paddle while avoiding losing the ball, achieving the highest score possible
 
 ### Project Setup:
-- Open this [link](hhttps://scratch.mit.edu/projects/1067142869) IN A NEW TAB and click on `Remix`
+- Open this [link](https://scratch.mit.edu/projects/1067142869) IN A NEW TAB and click on `Remix`
 
 ### Hints and Clues:
 - Ball Mechanics: Implement ball movement, including collision detection with walls and paddle, ensuring proper reflection.
