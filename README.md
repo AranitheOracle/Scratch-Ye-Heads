@@ -7,7 +7,7 @@ mini-games.
 
 What you waiting for now ?!.... Start Scratching !!!
 
-![](assests\81c25afcefc879951e2821f7180afe39.gif)
+![](https://github.com/AranitheOracle/Scratch-Ye-Heads/blob/main/assests/cat.gif)
 
 
 ## Setting Up the Environment ( Estimated Time : 5 mins )
@@ -47,7 +47,7 @@ What you waiting for now ?!.... Start Scratching !!!
 
 ### Optimal Solution: 
 
-![](assests\sol1.gif)
+![](https://github.com/AranitheOracle/Scratch-Ye-Heads/blob/main/assests/sol1.gif)
 
 ## Task 2 : Place the Glasses (Estimated Time: 30m mins) 
  
@@ -66,7 +66,7 @@ What you waiting for now ?!.... Start Scratching !!!
 
 
 ### Optimal Solution: 
-![](assests\gif-ezgif.com-crop.gif)
+![](https://github.com/AranitheOracle/Scratch-Ye-Heads/blob/main/assests/pranabsol.gif)
 
 
 ## Task 3 : Guide the Toad (estimated time 35 min.) 
@@ -95,7 +95,7 @@ What you waiting for now ?!.... Start Scratching !!!
 - See the coordinates of the ships on clicking their sprites in the sprites list and try to find a pattern in them.
 
 ### Optimal Solution: 
-![](assests\rohitsol.gif)
+![](https://github.com/AranitheOracle/Scratch-Ye-Heads/blob/main/assests/rohitsol.gif)
 
 ## Task 4 : Brick Breaker ( Estimated Time : 45 mins )
 
@@ -114,6 +114,6 @@ What you waiting for now ?!.... Start Scratching !!!
 - You Win Screen: Show a "You Win" screen when all bricks are broken, with options to replay or exit.
 
 ### Optimal Solution: 
-![](assests\sharathsol.gif)
+![](https://github.com/AranitheOracle/Scratch-Ye-Heads/blob/main/assests/sharathsol.gif)
 
 
