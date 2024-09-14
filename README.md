@@ -27,7 +27,28 @@ What you waiting for now ?!.... Start Scratching !!!
 - Make Sure you save the project as sharable. Click on `Share` at the top to make the project sharable.
 - Copy link of the project and save it in the word file with Task1/ Task2/ Task3/ BonusTask as the heading.
 
-## Task 1 : Triangular Geometries (Estimated Time: 30 mins)
+
+## Task 1 : Place the Glasses (Estimated Time: 30m mins) 
+ 
+ `Are you a good bartender ?`
+
+### Objective
+- Place the glasses in the given pattern to solve this task
+
+### Project Setup:
+- Open this [link](https://scratch.mit.edu/projects/1066889149) IN A NEW TAB and click on `Remix`
+
+### Hints and Clues:
+- For pattern generation you can refer to the following website: https://www.geeksforgeeks.org/programs-printing-pyramid-patterns-python/
+- New Variables can be made by going to Variables option on the left
+- Some variables are already created for you. Try creating some more variables to solve the task
+
+
+### Optimal Solution: 
+![](https://github.com/AranitheOracle/Scratch-Ye-Heads/blob/main/assests/pranabsol.gif)
+
+
+## Task 2 : Triangular Geometries (Estimated Time: 30 mins)
 
 `A starry sky hides a geometrical challenge! Your task is to create a mesmerizing pattern of triangles within triangles, with each triangle aligned precisely.`
 
@@ -47,25 +68,6 @@ What you waiting for now ?!.... Start Scratching !!!
 ### Optimal Solution: 
 
 ![](https://github.com/AranitheOracle/Scratch-Ye-Heads/blob/main/assests/sol1.gif)
-
-## Task 2 : Place the Glasses (Estimated Time: 30m mins) 
- 
- `Are you a good bartender ?`
-
-### Objective
-- Place the glasses in the given pattern to solve this task
-
-### Project Setup:
-- Open this [link](https://scratch.mit.edu/projects/1066889149) IN A NEW TAB and click on `Remix`
-
-### Hints and Clues:
-- For pattern generation you can refer to the following website: https://www.geeksforgeeks.org/programs-printing-pyramid-patterns-python/
-- New Variables can be made by going to Variables option on the left
-- Some variables are already created for you. Try creating some more variables to solve the task
-
-
-### Optimal Solution: 
-![](https://github.com/AranitheOracle/Scratch-Ye-Heads/blob/main/assests/pranabsol.gif)
 
 
 ## Task 3 : Guide the Toad (estimated time 35 min.) 
