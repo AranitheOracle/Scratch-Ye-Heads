@@ -7,7 +7,7 @@ mini-games.
 
 What you waiting for now ?!.... Start Scratching !!!
 
-![](https://github.com/AranitheOracle/Scratch-Ye-Heads/assets/81c25afcefc879951e2821f7180afe39.gif)
+![]([https://github.com/AranitheOracle/Scratch-Ye-Heads/assets/81c25afcefc879951e2821f7180afe39.gif](https://github.com/AranitheOracle/Scratch-Ye-Heads/blob/main/assests/81c25afcefc879951e2821f7180afe39.gif))
 
 
 ## Setting Up the Environment ( Estimated Time : 5 mins )
