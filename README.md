@@ -75,6 +75,7 @@ What you waiting for now ?!.... Start Scratching !!!
 
 `I write my name with a no. 9915 in all the handles, and no one knows why. But I don't do things without any reason. I had placed the ships on some coordinates. Can you find any relation between the ships coordinates?`
 
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWtvNGs0YXVscW16c3hlanIzZGltdWN4NzZkNmlpMWowMGhqMW10MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xckpvtJhGi3TpQKRrW/giphy.gif)
 
 ### Objective  
 - You have to find the patterns in the coordinates of the ships and make the toad to only move to those coordinates. 
